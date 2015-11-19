@@ -1,0 +1,50 @@
+html {
+    background: url(media/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body{
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+}
+
+
+
+@font-face {
+    font-family: DadsRecipeRegular;
+    src: url(media/DadsRecipeRegular.ttf);
+    font-weight: bold;
+}
+
+
+.menubar{
+    margin: 0 auto;
+    position: relative;
+    margin-top: 2em;
+    transform: translateY(-50%);
+    height: 1em;
+    width: 27em;
+    list-style-type:none;
+    color: white;
+    font-family: DadsRecipeRegular, Helvetica, sans-serif;
+    font-size: 3em;
+}
+
+.menubar li{
+    display:inline;
+    margin-left: .6em;
+
+}
+
+.menubar li:nth-child(4){
+    margin-left: 7em;
+}
+
+#logo{
+    height: 9em;
+    width: auto;
+}
