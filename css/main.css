@@ -1,5 +1,5 @@
 html {
-    background: url(media/bg.jpg) no-repeat center center fixed;
+    background: url(../media/bg.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,7 +14,7 @@ body{
 
 @font-face {
     font-family: DadsRecipeRegular;
-    src: url(media/DadsRecipeRegular.ttf);
+    src: url(../media/DadsRecipeRegular.ttf);
     font-weight: bold;
 }
 

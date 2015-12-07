@@ -2,12 +2,13 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Central Perk Cafe</title>
-    <link rel="stylesheet" type="text/css" href="main.css">
-    <script src="works.js" type="javascript"></script>
+    <title>Contact Us | Central Perk Cafe</title>
+    <?php include("include/head.php"); ?>
 </head>
-    
 <body>
+    
+    <?php include("include/menubar.php"); ?>
+    
     <form method="post" action="include/send-contact.php">
         <div class="form-group">
             <input name="name" class="form-control" type="text" placeholder="Enter your Name">
@@ -22,6 +23,6 @@
             <input class="btn btn-success btn-block" type="submit">
         </div>
     </form>
+    
 </body>
-
-</html
+</html>
