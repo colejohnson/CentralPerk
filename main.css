@@ -12,39 +12,56 @@ body{
     padding: 0%;
 }
 
-
-
 @font-face {
     font-family: DadsRecipeRegular;
     src: url(media/DadsRecipeRegular.ttf);
     font-weight: bold;
 }
 
+header,nav, a, img, li{
+    transition: all 1s;
+    -moz-transition: all 1s; /* Firefox 4 */
+    -webkit-transition: all 1s; /* Safari and Chrome */
+    -o-transition: all 1s; /* Opera */
+}
+
+header{
+    margin-top: 5em;
+}
 
 .menubar{
     margin: 0 auto;
     position: relative;
-    margin-top: 2em;
-    transform: translateY(-50%);
-    height: 1em;
+    height: .5em;
     width: 27em;
     list-style-type:none;
     color: white;
     font-family: DadsRecipeRegular, Helvetica, sans-serif;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .menubar li{
     display:inline;
-    margin-left: .6em;
+    margin-left: .5em;
 
 }
 
 .menubar li:nth-child(4){
-    margin-left: 7em;
+    margin-left: 7.5em;
 }
 
-#logo{
-    height: 9em;
-    width: auto;
+.logo{
+    max-width: 230px;
+    height: auto;
+    position: absolute;
+    top: 2.4em;
+    left: 50%;
+    margin-left: -120px;
+    z-index: 100
 }
+
+hr{
+    width: 53em;
+}
+
+

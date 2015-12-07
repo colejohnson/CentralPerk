@@ -1,3 +1,8 @@
-/**
- * Created by colejohnson on 11/12/15.
- */
+
+$(document).on("scroll",function(){
+    if($(document).scrollTop()>100){
+        $("header").removeClass("large").addClass("small");
+    } else{
+        $("header").removeClass("small").addClass("large");
+    }
+});
