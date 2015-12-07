@@ -15,7 +15,7 @@
         <li>Menu</li>
         <li>Gallery</li>
         <li>Shop</li>
-        <li>Contact</li>
+        <li><a href="contact.php">Contact</a></li>
         <li>Events</li>
         <hr>
         <img id="logo" src="media/logo2.png">
