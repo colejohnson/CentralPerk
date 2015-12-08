@@ -27,7 +27,7 @@
 
     <?php include("include/header.php"); ?>
 
-    <div id = "maincontainer">
+    <div class = "maincontainer">
 
         <h2> About Us</h2>
 
