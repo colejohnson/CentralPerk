@@ -30,7 +30,7 @@
 		<nav>
 			<img class="logo" src="media/logo2.png"/>
 			<ul>
-				<li><a href="#">About</a></li>
+				<li><a href="about.html">About</a></li>
 				<li><a href="#">Menu</a></li>
                 <li><a href="#">Gallery</a></li>
                 <li><a href="#">Shop</a></li>

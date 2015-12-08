@@ -177,6 +177,7 @@ header.small nav{
     width: 60em;
 }
 
+/*-----------FOOTER START----------*/
 .footer{
     position: absolute;
     left: 0;
@@ -213,6 +214,6 @@ header.small nav{
     float: right;
 }
 
-
+/*-----------FOOTER END----------*/
 
 
