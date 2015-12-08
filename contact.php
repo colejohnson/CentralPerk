@@ -7,7 +7,7 @@
 </head>
 <body>
     
-    <?php include("include/menubar.php"); ?>
+    <?php include("include/header.php"); ?>
     
     <form method="post" action="include/send-contact.php">
         <div class="form-group">
@@ -23,6 +23,8 @@
             <input class="btn btn-success btn-block" type="submit">
         </div>
     </form>
+    
+    <?php include("include/footer.php"); ?>
     
 </body>
 </html>

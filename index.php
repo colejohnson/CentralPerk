@@ -13,11 +13,6 @@
     <?php include("include/header.php"); ?>
 
 
-	<section class="stretch">
-		<p>Let's get that menu small!</p>
-		<p class="bottom">End of the line.</p>
-	</section>
-
 	<?php include("include/footer.php"); ?>
 
 </body>

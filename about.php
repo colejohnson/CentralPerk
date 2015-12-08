@@ -5,22 +5,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>Central Perk</title>
-    <link rel="stylesheet" type="text/css" href="http://meyerweb.com/eric/tools/css/reset/reset.css">
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-
-
-    <script type="text/javascript">
-        $(document).on("scroll",function(){
-            if($(document).scrollTop()>100){
-                $("header").removeClass("large").addClass("small");
-            }
-            else{
-                $("header").removeClass("small").addClass("large");
-            }
-        });
-    </script>
-
+    <?php include("include/head.php"); ?>
 </head>
 
 <body>
