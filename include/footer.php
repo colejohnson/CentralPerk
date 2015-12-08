@@ -12,7 +12,6 @@
         <p>Sat-Sun 8-11</p>
     </div>
     <div id="footer-right">
-        <br>
             <ul id="footer-right-list1">
                 <li><a href="#">About</a></li>
                 <li><a href="#">Menu</a></li>
