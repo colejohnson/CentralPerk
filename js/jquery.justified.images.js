@@ -1,3 +1,4 @@
+/* http://nitinhayaran.github.io/Justified.js/demo/ */
 /*jshint white:false*/
 /* global jQuery: true*/
 // the semi-colon before function invocation is a safety net against concatenated
