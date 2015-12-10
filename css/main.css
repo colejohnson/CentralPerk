@@ -14,8 +14,20 @@ body{
 
 @font-face {
     font-weight: bold;
-    font-family: DadsRecipeRegular;
-    src: url(../media/DadsRecipeRegular.ttf);
+    font-family: 'DadsRecipeRegular';
+    src: url('../media/DadsRecipeRegular.ttf');
+}
+
+@font-face {
+    font-weight: bold;
+    font-family: 'DIN Alternate';
+    src: url('../media/DIN Alternate Bold.ttf');
+}
+
+@font-face {
+    font-weight: bold;
+    font-family: 'DIN Condensed';
+    src: url('../media/DIN Condensed Bold.ttf');
 }
 
 
@@ -47,8 +59,6 @@ a:active {
 ul{
     display: inline-block;
     list-style-type: none;
-
-    *display: inline;
 }
 
 li{
