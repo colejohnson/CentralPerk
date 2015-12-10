@@ -8,4 +8,5 @@
 
 <!-- Custom --> 
 <link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="css/main-media-queries.css">
 <script src="js/shrink-menu.js"></script>
