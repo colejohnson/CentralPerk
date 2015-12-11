@@ -240,7 +240,7 @@ table tr{
     width: 200px;
     color: white;
     font-size: 1em;
-    font-family: 'DIN Alternate', sans-serif;
+    font-family: 'DIN Alternate', Helvetica,sans-serif;
 }
 
 table td{
