@@ -71,7 +71,7 @@
 
             </p>
 
-                        <h2 style="font-family: 'DadsRecipeRegular', sans-serif; text-align: center; font-size:3em;"> Where friends meet</h2>
+                        <a href="menu.php";><h2 style="font-family: 'DadsRecipeRegular', sans-serif; left:20%; font-size:2.5em;"> See our menu!</h2><a/>
 
     </div>
     

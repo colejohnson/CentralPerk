@@ -13,14 +13,14 @@
     </div>
     <div id="footer-right">
             <ul id="footer-right-list1">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Menu</a></li>
-                <li><a href="#">Gallery</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="menu.php">Menu</a></li>
+                <li><a href="gallery.php">Gallery  </a></li>
             </ul>
             <ul id="footer-right-list2">
-                <li><a href="#">Shop</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="#">Events</a></li>
+                <li><a href="shop.php">Shop</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="events.php">Events</a></li>
             </ul>
     </div>
 </footer>
