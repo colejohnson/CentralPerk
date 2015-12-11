@@ -14,7 +14,7 @@
 
     <div class = "maincontainer" >
 
-        <img src="media/menu.png" alt="menu" height="70%" width="auto">
+        <img class="menu" src="media/menu.png" alt="menu">
 
     </div>
     
