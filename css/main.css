@@ -131,6 +131,7 @@ img.logo{
     left: 40%;
     z-index: 10000;
     margin-top: -1em;
+    max-width: 25em;
     width: 20%;
     height: auto;
 }
@@ -179,13 +180,42 @@ header.small nav{
     align-content: center;
 }
 
+
+
 .maincontainer img{
     position: relative;
     width: 100%;
 }
 
 .textcontainer{
+    font-family: "DIN Alternate";
+    color: white;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.textcontainer p, h2, h4, h3{
+    padding: .5em;
+    z-index: 2;
+    position: relative;
+    color: #fff;
+    max-width: 50em;
+    padding-left: 4em;
+}
+
+.textcontainer:after {
+    z-index: 1;
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
     background-color:#74201A;
+
 }
 
 

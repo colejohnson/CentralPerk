@@ -18,6 +18,7 @@
 
             <h4> About Us</h4>
 
+                <img src="gallery/gallery3.jpg" alt="about">
 
             <p>
 
