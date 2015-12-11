@@ -55,7 +55,7 @@
             </div>
             <br>
             <div class="form-group">
-                Message:<textarea name="message" class="form-control" rows="10" placeholder="Enter your Message"></textarea>
+                Message:<textarea name="message" class="form-control" rows="10" placeholder="Enter your Message" style="width: 20em"></textarea>
             </div>
             <div class="form-group">
                 <input class="btn btn-success btn-block" type="submit">
