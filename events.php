@@ -21,7 +21,7 @@
 
             <hr>    
               
-                <img src="gallery/events1.png" alt="about" align="left" style="width:40%; z-index:2; position: relative; padding:2em;">
+                <img src="media/events1.png" alt="about" align="left" style="width:40%; z-index:2; position: relative; padding:2em;">
 
                 <h3>Phoebe Buffay LIVE</h3>
                 <h4>w/ Special Guest Ross Geller</h4>
@@ -37,9 +37,9 @@
              <h3>Upcoming Events:</h3>   
             <hr>
             
-                            <img src="gallery/events2.png" alt="about" align="left" style="width:25%; z-index:2; position: relative; padding:2em;">
-                            <img src="gallery/events3.png" alt="about" align="center" style="width:25%; z-index:2; position: relative; padding:2em;">
-                            <img src="gallery/events4.png" alt="about" align="right" style="width:25%; z-index:2; position: relative; padding:2em;">
+                            <img src="media/events2.png" alt="about" align="left" style="width:25%; z-index:2; position: relative; padding:2em;">
+                            <img src="media/events3.png" alt="about" align="center" style="width:25%; z-index:2; position: relative; padding:2em;">
+                            <img src="media/events4.png" alt="about" align="right" style="width:25%; z-index:2; position: relative; padding:2em;">
 
 </div>
 
