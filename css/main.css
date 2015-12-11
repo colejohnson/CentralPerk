@@ -287,3 +287,8 @@ table img{
     float: right;
 }
 /*-----------FOOTER END---------*/
+
+.upcevents
+    {
+        display: inline-block;
+    }
