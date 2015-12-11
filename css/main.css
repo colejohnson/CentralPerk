@@ -127,7 +127,7 @@ img.logo{
     position: absolute;
     left: 40%;
     z-index: 10000;
-    margin-top: -1em;
+    margin-top: -0.5em;
     max-width: 25em;
     width: 20%;
     height: auto;
