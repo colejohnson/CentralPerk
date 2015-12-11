@@ -71,10 +71,6 @@ nav{
     width: 960px;
 }
 
-hr{
-    width: 50em;
-}
-
 /*-----------HEADER END----------*/
 
 header{
@@ -179,6 +175,9 @@ header.small nav{
     padding-top: 10em;
     width: 70%;
     align-content: center;
+    color: white;
+    font-family: "DIN Alternate", sans-serif;
+
 }
 
 .menu {
@@ -235,6 +234,10 @@ table img{
     max-width: 80%;
 }
 
+#mapwrap{
+    float: right;
+
+}
 
 
 
