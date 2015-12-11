@@ -206,7 +206,7 @@ header.small nav{
     z-index: 2;
     position: relative;
     color: #fff;
-    padding: .5em
+    padding: 1em
 }
 
 .textcontainer:after {
@@ -225,6 +225,7 @@ header.small nav{
 
 table{
     position: relative;
+    z-index: 10000;
 }
 table tr{
     width: 200px;
@@ -235,16 +236,16 @@ table tr{
 
 table td{
     max-width: 18em;
+    padding: 1em;
+    padding-left: 2em;
+
 }
 
 table img{
     max-width: 80%;
 }
 
-.shopcontainer{
-    background-color:#74201A;
-    opacity:.8;
-}
+
 
 #mapwrap{
     float: right;
@@ -321,3 +322,4 @@ table img{
     background-color:#74201A;
 
 }
+

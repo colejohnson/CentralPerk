@@ -15,9 +15,9 @@
 
     <div class = "maincontainer" >
 
-		<div  class="shopcontainer">
+		<div class="textcontainer">
 				
-				<p>Welcome to the Shop! Here you can buy various merchandise related to Friends and Central Perk.</p>
+				<h6 style="font-size:1.4em;">Welcome to the Shop! Here you can buy various merchandise related to Friends and Central Perk.</h6>
 				<hr>
 				
 			<table>
@@ -26,7 +26,7 @@
                     <br />
 					Friends Central Perk Soup Mug!
 					<br />$11.99</td>
-					<td><a href="http://www.nbcuniversalstore.com/friends-central-perk-16-oz-cup-with-straw/detail.php?p=829424&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/829/424/catl/friends-central-perk-16-oz-cup-with-straw_272.jpg?k=dcddbc0c&pid=829424&s=catl&sn=nbcuniversalstore" width="272px" height="272px" alt="16 oz cup for all your cup needs!" /></a>
+					<td><a href="http://www.nbcuniversalstore.com/friends-central-perk-16-oz-cup-with-straw/detail.php?p=829424&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/829/424/catl/friends-central-perk-16-oz-cup-with-straw_272.jpg?k=dcddbc0c&pid=829424&s=catl&sn=nbcuniversalstore" width="272px" height="auto" alt="16 oz cup for all your cup needs!" /></a>
                     <br />
 					Friends Central Perk 16 oz.
 					<br />
@@ -41,7 +41,7 @@
 				<tr>
 					<td><a href="http://www.nbcuniversalstore.com/the-holiday-armadillo-sweatshirt/detail.php?p=924221&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/924/221/catl/the-holiday-armadillo-sweatshirt_272.jpg?k=fafe4c9d&pid=924221&s=catl&sn=nbcuniversalstore" alt="Welcome the holidays with your HOLIDAY ARMADILLO sweater!" /></a>
                     <br />
-					Holiday Armadillo Sweatshirt<br />
+					Holiday Armadillo Sweatshirt
 					<br />$49.95</td>
 					<td><a href="http://www.nbcuniversalstore.com/friends-could-i-be-wearing-any-more-clothes-pullover-hoodie/detail.php?p=886847&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/886/847/catl/friends-could-i-be-wearing-any-more-clothes-pullover-hoodie_272.jpg?k=0c04084e&pid=886847&s=catl&sn=nbcuniversalstore" alt="Chandler's 'could I BE wearing any more clothes?' Hooded sweatshirt!" /></a>
                     <br />
@@ -49,7 +49,7 @@
 					<br />$49.95</td>
 					<td><a href="http://www.nbcuniversalstore.com/friends-pullover-hoodie/detail.php?p=886842&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/886/842/catl/friends-pullover-hoodie_272.jpg?k=e1b0c7ee&pid=886842&s=catl&sn=nbcuniversalstore" alt="Friends cast pose sweatshirt" /></a>
                     <br />
-					Friends Cast Hooded Sweatshirt<br />
+					Friends Cast Hooded Sweatshirt
 					<br />$49.95</td>
 				</tr>
 				<br />
