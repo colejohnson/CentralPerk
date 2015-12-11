@@ -15,9 +15,12 @@
 
     <div class = "maincontainer" >
 
-		<div>
-
-			<table class="shopcontainer">
+		<div  class="shopcontainer">
+				
+				<p>Welcome to the Shop! Here you can buy various merchandise related to Friends and Central Perk.</p>
+				<hr>
+				
+			<table>
 				<tr>
 					<td><a href="http://www.nbcuniversalstore.com/friends-central-perk-oversized-24oz-soup-mug/detail.php?p=931741&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/931/741/catl/friends-central-perk-oversized-24oz-soup-mug_272.jpg?k=03f8c58d&pid=931741&s=catl&sn=nbcuniversalstore" alt="Soup Cup for Friendly soup!" /></a>
                     <br />
