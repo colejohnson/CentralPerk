@@ -234,7 +234,7 @@ header.small nav{
 
 table{
     position: relative;
-    z-index: 10000;
+    z-index: 1000;
 }
 table tr{
     width: 200px;
