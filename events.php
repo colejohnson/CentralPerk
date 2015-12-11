@@ -17,9 +17,9 @@
 
         <div class = "textcontainer">
 
-            <h4> This Week</h4>
+            <h3> This Week</h3>
 
-                
+            <hr>    
               
                 <img src="gallery/gallery3.png" alt="about" align="left" style="width:40%; z-index:2; position: relative; padding:2em;">
 
@@ -32,11 +32,15 @@
                   Central Perk. </p>
                   
           
-                
+             <h3>Upcoming Events:</h3>   
+            <hr>
+            
+                            <img src="gallery/gallery3.png" alt="about" align="left" style="width:25%; z-index:2; position: relative; padding:2em;">
+                            <img src="gallery/gallery3.png" alt="about" align="center" style="width:25%; z-index:2; position: relative; padding:2em;">
+                            <img src="gallery/gallery3.png" alt="about" align="right" style="width:25%; z-index:2; position: relative; padding:2em;">
 
 
 
-                  <img src="gallery/gallery5.png" alt="about" align="right" style="width:40%; z-index:500000; position: relative; padding:2em;">
 
            
 
