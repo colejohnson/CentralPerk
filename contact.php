@@ -32,6 +32,19 @@
         <h1 style="font-size:2em;">Drop Us a Line!<h1>
         <hr>
 
+
+        <div id="mapwrap">
+                    <div id="googleMap" style="width:300px;height:300px;"></div>
+
+                             <br>
+                                     <p>Central Perk Cafe</p>
+                                     <p>116 W 32nd St, New York, NY 10001</p>
+                                     <p>(212) 695-9550</p>
+
+
+                </div>
+
+
         <form method="post" action="include/send-contact.php">
             <div class="form-group">
                 <input name="name" class="form-control" type="text" placeholder="Enter your Name">
@@ -50,16 +63,7 @@
         </form>
 
 
-        <div id="mapwrap">
-            <div id="googleMap" style="width:300px;height:300px;"></div>
 
-                     <br>
-                             <p>Central Perk Cafe</p>
-                             <p>116 W 32nd St, New York, NY 10001</p>
-                             <p>(212) 695-9550</p>
-
-
-        </div>
 
 
 

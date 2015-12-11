@@ -14,7 +14,7 @@
             <ul class="left">
                 <li><a href="shop.php">Shop</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="#">Events</a></li>
+                <li><a href="events.php">Events</a></li>
             </ul>
         </div>
     </nav>
