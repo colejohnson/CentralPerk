@@ -17,7 +17,7 @@
 
 		<div>
 			<hr>
-			<table class="shopcontainer">
+			<table class="shopcontainer" width="60%">
 				<tr>
 					<td><a href="http://www.nbcuniversalstore.com/friends-central-perk-oversized-24oz-soup-mug/detail.php?p=931741&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/931/741/catl/friends-central-perk-oversized-24oz-soup-mug_272.jpg?k=03f8c58d&pid=931741&s=catl&sn=nbcuniversalstore" alt="Soup Cup for Friendly soup!" /></a>
 					<hr>
