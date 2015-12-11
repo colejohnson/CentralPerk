@@ -217,10 +217,24 @@ header.small nav{
 
 }
 
-.shopcontainer{
-
-
+table{
+    position: relative;
 }
+table tr{
+    width: 200px;
+    color: white;
+    font-family: 'DIN Alternate', sans-serif;
+    font-size: 1em;
+}
+
+table td{
+    max-width: 18em;
+}
+
+table img{
+    max-width: 80%;
+}
+
 
 
 
