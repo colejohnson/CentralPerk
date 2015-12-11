@@ -4,7 +4,7 @@
             <ul class="right">
                 <li><a href="about.php">About</a></li>
                 <li><a href="menu.php">Menu</a></li>
-                <li><a href="#">Gallery</a></li>
+                <li><a href="gallery.php">Gallery</a></li>
             </ul>
         </div>
         
