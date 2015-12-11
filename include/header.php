@@ -12,7 +12,7 @@
         
         <div class="right">
             <ul class="left">
-                <li><a href="#">Shop</a></li>
+                <li><a href="shop.php">Shop</a></li>
                 <li><a href="contact.php">Contact</a></li>
                 <li><a href="#">Events</a></li>
             </ul>

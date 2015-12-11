@@ -149,6 +149,7 @@ header.small a{
     text-transform: uppercase;
     font-size: 1.5em;
     font-family: 'DadsRecipeRegular', sans-serif;
+
 }
 
 header.small{
@@ -176,13 +177,10 @@ header.small nav{
     margin-left: auto;
     padding-top: 10em;
     width: 70%;
-
     align-content: center;
 }
 
-
-
-.maincontainer img{
+.menu {
     position: relative;
     width: 100%;
 }
@@ -259,4 +257,3 @@ header.small nav{
 }
 
 /*-----------FOOTER END----------*/
-

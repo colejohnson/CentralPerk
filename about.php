@@ -18,7 +18,7 @@
 
             <h4> About Us</h4>
 
-                <img src="gallery/gallery3.jpg" alt="about">
+                <img src="gallery/gallery3.png" alt="about" align="right" style="width:40%; z-index:2; position: relative; padding:2em;">
 
             <p>
 
@@ -49,6 +49,9 @@
             <p>And we offer free wi-fi too...</p>
 
 
+
+                  <img src="gallery/gallery5.png" alt="about" align="left" style="width:40%; z-index:500000; position: relative; padding:2em;">
+
             <h2> About the Show</h2>
 
             <p>
@@ -67,6 +70,8 @@
                 We are not only famous for a cafe from Friends but it is also a great spot to hang out with friends, catch up on some old memories, enjoy the great coffee with some snacks.
 
             </p>
+
+                        <h2 style="font-family: 'DadsRecipeRegular', sans-serif; text-align: center; font-size:3em;"> Where friends meet</h2>
 
     </div>
     
