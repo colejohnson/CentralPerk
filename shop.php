@@ -23,7 +23,7 @@
                     <br />
 					Friends Central Perk Soup Mug!
 					<br />$11.99</td>
-					<td><a href="http://www.nbcuniversalstore.com/friends-central-perk-16-oz-cup-with-straw/detail.php?p=829424&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/829/424/catl/friends-central-perk-16-oz-cup-with-straw_272.jpg?k=dcddbc0c&pid=829424&s=catl&sn=nbcuniversalstore" alt="16 oz cup for all your cup needs!" /></a>
+					<td><a href="http://www.nbcuniversalstore.com/friends-central-perk-16-oz-cup-with-straw/detail.php?p=829424&v=nbc_classic-nbc-shows_friends"><img src="http://www.nbcuniversalstore.com/imgcache/product/resized/000/829/424/catl/friends-central-perk-16-oz-cup-with-straw_272.jpg?k=dcddbc0c&pid=829424&s=catl&sn=nbcuniversalstore" width="272px" height="272px" alt="16 oz cup for all your cup needs!" /></a>
                     <br />
 					Friends Central Perk 16 oz.
 					<br />
