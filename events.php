@@ -17,11 +17,11 @@
 
         <div class = "textcontainer">
 
-            <h3> This Week</h3>
+            <h6 style="font-size:2em;"> This Week</h3>
 
             <hr>    
               
-                <img src="media/events1.png" alt="about" align="left" style="width:40%; z-index:2; position: relative; padding:2em;">
+                <img src="media/events1.png" alt="about" align="left" style="width:40%; z-index:2; position: relative; padding:1em;">
 
                 <h3>Phoebe Buffay LIVE</h3>
                 <h4>w/ Special Guest Ross Geller</h4>
@@ -31,20 +31,18 @@
                 <p> Ross Geller is a fabulos keyboard player famous for his cat and cow noises, joining Phoebe Buffay this Friday only at
                   Central Perk. </p>
                   
-          </div>
-          
-          <div class = "upcevents">
-             <h3>Upcoming Events:</h3>   
+            <div style="float:left;">
+             <h6 style="font-size:2em;">Upcoming Events:</h3>
             <hr>
             
-                            <img src="media/events2.png" alt="about" align="left" style="width:25%; z-index:2; position: relative; padding:2em;">
-                            <img src="media/events3.png" alt="about" align="center" style="width:25%; z-index:2; position: relative; padding:2em;">
-                            <img src="media/events4.png" alt="about" align="right" style="width:25%; z-index:2; position: relative; padding:2em;">
+                            <img src="media/events2.png" alt="about" align="left" style="width:25%; z-index:2; position: relative; padding:1em;">
+                            <img src="media/events3.png" alt="about" align="center" style="width:25%; z-index:2; position: relative; padding:1em; padding-left:5em;">
+                            <img src="media/events4.png" alt="about" align="right" style="width:25%; z-index:2; position: relative; padding:1em;">
+            </div>
 
-</div>
 
+                     </div>
 
-           
 
 
     </div>
