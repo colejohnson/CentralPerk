@@ -234,6 +234,10 @@ table img{
     max-width: 80%;
 }
 
+.shopcontainer{
+    background-color:#74201A;
+}
+
 #mapwrap{
     float: right;
     top:4em;
