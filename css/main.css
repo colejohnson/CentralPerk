@@ -44,8 +44,8 @@ a:visited {
 }
 
 a:link {
-    text-decoration: none;
     color: white;
+    text-decoration: none;
 }
 
 a:hover {
@@ -75,7 +75,7 @@ nav{
 
 header{
     position: fixed;
-    z-index: 10;
+    z-index: 10000;
     /*border-bottom: 2px solid white;*/
     display: flex;
 /*    margin-top: 2em;*/
@@ -127,17 +127,23 @@ img.logo{
     position: absolute;
     left: 40%;
     z-index: 10000;
-    margin-top: -1em;
+    margin-top: -0.5em;
     max-width: 25em;
     width: 20%;
     height: auto;
 }
 
 /* Sizes for the smaller menu */
+header.small{
+    padding-bottom: 12px;
+    background-color: black;
+    opacity: 0.8;
+}
 header.small nav{
     margin-right: auto;
     margin-left: auto;
     width: 88%;
+    opacity: 1;
 }
 
 header.small a{
@@ -146,7 +152,6 @@ header.small a{
     text-transform: uppercase;
     font-size: 1.5em;
     font-family: 'DadsRecipeRegular', sans-serif;
-
 }
 
 header.small{
@@ -174,10 +179,10 @@ header.small nav{
     margin-left: auto;
     padding-top: 10em;
     width: 70%;
-    align-content: center;
     color: white;
     font-family: "DIN Alternate", sans-serif;
 
+    align-content: center;
 }
 
 .menu {
@@ -186,20 +191,25 @@ header.small nav{
 }
 
 .textcontainer{
-    font-family: "DIN Alternate", sans-serif;
-    color: white;
-    overflow: hidden;
     position: relative;
+    overflow: hidden;
 
+
+
+    color: white;
+
+
+
+    font-family: "DIN Alternate", sans-serif;
 }
 
 .textcontainer p, h2, h4, h3{
-    padding: .5em;
-    z-index: 2;
     position: relative;
-    color: #fff;
-    max-width: 50em;
+    z-index: 2;
+    padding: .5em;
     padding-left: 4em;
+    max-width: 50em;
+    color: #fff;
 }
 
 .textcontainer h6{
@@ -210,17 +220,16 @@ header.small nav{
 }
 
 .textcontainer:after {
-    z-index: 1;
-    content: ' ';
-    display: block;
     position: absolute;
-    left: 0;
     top: 0;
+    left: 0;
+    z-index: 1;
+    display: block;
     width: 100%;
     height: 100%;
-    opacity: 0.6;
     background-color:#74201A;
-
+    content: ' ';
+    opacity: 0.6;
 }
 
 table{
@@ -230,8 +239,8 @@ table{
 table tr{
     width: 200px;
     color: white;
-    font-family: 'DIN Alternate', sans-serif;
     font-size: 1em;
+    font-family: 'DIN Alternate', sans-serif;
 }
 
 table td{
@@ -248,11 +257,9 @@ table img{
 
 
 #mapwrap{
-    float: right;
     top:4em;
+    float: right;
     margin-top: 4em;
-
-
 }
 
 .form-group{
@@ -269,6 +276,7 @@ table img{
     position: fixed;
     bottom: 0;
     left: 0;
+    z-index: 1000000000;
     width: 100%;
     height: 80px;
     background:#74201A;
@@ -309,17 +317,15 @@ table img{
     }
 
 .upcevents:after {
-    margin-top: 32em;
-    z-index: 1;
-    content: ' ';
-    display: block;
     position: absolute;
-    left: 0;
     top: 0;
+    left: 0;
+    z-index: 1;
+    display: block;
+    margin-top: 32em;
     width: 100%;
     height: 100%;
-    opacity: .6;
     background-color:#74201A;
-
+    content: ' ';
+    opacity: .6;
 }
-
