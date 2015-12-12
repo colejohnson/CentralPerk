@@ -4,7 +4,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Central Perk</title>
+            <title>Menu | Central Perk Cafe</title>
     <?php include("include/head.php"); ?>
 </head>
 
@@ -13,7 +13,6 @@
     <?php include("include/header.php"); ?>
 
     <div class = "maincontainer" >
-
         <img class="menu" src="media/menu.png" alt="menu">
 
     </div>

@@ -8,10 +8,11 @@ html {
     background-size: cover;
 }
 
-body{
+body {
     margin: 0 0 100px;
 }
 
+/*Assign font faces*/
 @font-face {
     font-weight: bold;
     font-family: 'DadsRecipeRegular';
@@ -30,14 +31,18 @@ body{
     src: url('../media/DIN Condensed Bold.ttf');
 }
 
-
-header, a, img, li{
-    -webkit-transition: all .8s; /* Safari and Chrome */
-    -moz-transition: all .8s; /* Firefox 4 */
-    -o-transition: all .8s; /* Opera */
+/*Animate all transitions*/
+header, a, img, li {
+    -webkit-transition: all .8s;
+    /* Safari and Chrome */
+    -moz-transition: all .8s;
+    /* Firefox 4 */
+    -o-transition: all .8s;
+    /* Opera */
     transition: all .8s;
 }
 
+/*Make links pretty*/
 a:visited {
     color: white;
     text-decoration: none;
@@ -56,42 +61,37 @@ a:active {
     text-decoration: underline;
 }
 
-
-ul{
+ul {
     display: inline-block;
     list-style-type: none;
 }
 
-li{
+li {
 }
 
-
-nav{
+nav {
     margin: 0 auto;
     width: 960px;
 }
 
 /*-----------HEADER END----------*/
 
-header{
+header {
     position: fixed;
     z-index: 10000;
-    /*border-bottom: 2px solid white;*/
     display: flex;
-/*    margin-top: 2em;*/
-/*    overflow: hidden;*/
     margin-top: 45px;
     margin-right: auto;
     margin-left: auto;
     width: 100%;
 }
 
-header nav{
+header nav {
     width: 95%;
 }
 
-header a{
-    position:relative;
+header a {
+    position: relative;
     color: white;
     text-decoration: none;
     text-transform: uppercase;
@@ -99,11 +99,11 @@ header a{
     font-family: 'DadsRecipeRegular', sans-serif;
 }
 
-header a:hover{
+header a:hover {
     color: #3d3d3d;
 }
 
-header li{
+header li {
     display: inline;
     float: left;
     margin-top: 1em;
@@ -111,11 +111,11 @@ header li{
     padding-left: 1em;
 }
 
-header .left{
+header .left {
     float: left;
 }
 
-header .right{
+header .right {
     float: right;
 }
 
@@ -123,7 +123,8 @@ header div {
     width: 40%;
 }
 
-img.logo{
+/*Menubar logo positioning*/
+img.logo {
     position: absolute;
     left: 40%;
     z-index: 10000;
@@ -134,19 +135,20 @@ img.logo{
 }
 
 /* Sizes for the smaller menu */
-header.small{
+header.small {
     padding-bottom: 12px;
     background-color: black;
     opacity: 0.8;
 }
-header.small nav{
+
+header.small nav {
     margin-right: auto;
     margin-left: auto;
     width: 88%;
     opacity: 1;
 }
 
-header.small a{
+header.small a {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
@@ -154,25 +156,21 @@ header.small a{
     font-family: 'DadsRecipeRegular', sans-serif;
 }
 
-header.small{
+header.small {
     height: 3em;
 }
 
-header.small img{
+header.small img {
     left: 41%;
     width: 18%;
     height: auto;
 }
 
-header.small li{
-}
 
-header.small nav{
-/*    width: 60em;*/
-}
 /*-----------HEADER END----------*/
 
-.maincontainer{
+/*Our main container for content*/
+.maincontainer {
     position: relative;
     overflow: hidden;
     margin-right: auto;
@@ -181,29 +179,25 @@ header.small nav{
     width: 70%;
     color: white;
     font-family: "DIN Alternate", sans-serif;
-
     align-content: center;
 }
 
+/*Menu img positioning*/
 .menu {
     position: relative;
     width: 100%;
 }
 
-.textcontainer{
+/*Our main container for text*/
+.textcontainer {
     position: relative;
     overflow: hidden;
-
-
-
     color: white;
-
-
-
     font-family: "DIN Alternate", sans-serif;
 }
 
-.textcontainer p, h2, h4, h3{
+/*Specific tag styles*/
+.textcontainer p, h2, h4, h3 {
     position: relative;
     z-index: 2;
     padding: .5em;
@@ -212,13 +206,14 @@ header.small nav{
     color: #fff;
 }
 
-.textcontainer h6{
+.textcontainer h6 {
     z-index: 2;
     position: relative;
     color: #fff;
-    padding: 1em
+    padding: .6em;
 }
 
+/*Fixes transparent background*/
 .textcontainer:after {
     position: absolute;
     top: 0;
@@ -227,42 +222,44 @@ header.small nav{
     display: block;
     width: 100%;
     height: 100%;
-    background-color:#74201A;
+    background-color: #74201A;
     content: ' ';
     opacity: 0.6;
 }
 
-table{
+/*Shop styling*/
+table {
     position: relative;
     z-index: 1000;
 }
-table tr{
+
+table tr {
     width: 200px;
     color: white;
     font-size: 1em;
     font-family: 'DIN Alternate', Helvetica,sans-serif;
 }
 
-table td{
+table td {
     max-width: 18em;
     padding: 1em;
     padding-left: 2em;
-
 }
 
-table img{
+table img {
     max-width: 80%;
 }
 
 
+/*Google map styling*/
 
-#mapwrap{
-    top:4em;
+#mapwrap {
+    top: 4em;
     float: right;
     margin-top: 4em;
 }
 
-.form-group{
+.form-group {
     width: 10em;
 }
 
@@ -271,51 +268,57 @@ table img{
 
 /*-----------FOOTER START----------*/
 
-.footer{
+.footer {
     z-index: 1000000000;
     position: fixed;
     bottom: 0;
     left: 0;
-    z-index: 1000000000;
     width: 100%;
     height: 80px;
-    background:#74201A;
+    background: #74201A;
     color: white;
     font-size: 1.1em;
     font-family: "DIN Condensed", sans-serif;
     opacity: .8;
 }
-#footer-left{
+
+#footer-left {
     float: left;
     margin-right: 2em;
     margin-left: 2em;
 }
-#footer-left-left{
+
+#footer-left-left {
     float: left;
     margin-right: 2em;
 }
-#footer-right{
+
+#footer-right {
     float: right;
     margin-right: 2em;
     padding-top: .5em;
     height: 90%;
     font-size: 1.3em;
 }
-#footer-right-list1{
+
+#footer-right-list1 {
     width: auto;
+    padding-right: .5em;
 }
-#footer-right-list2{
+
+#footer-right-list2 {
     float: right;
 }
 /*-----------FOOTER END---------*/
 
-.upcevents
-    {
+/*Upcoming events*/
+.upcevents {
     display: inline-block;
     width: 100%;
     height: 100%;
-    }
+}
 
+/*Opacity background for Upcoming events*/
 .upcevents:after {
     position: absolute;
     top: 0;
@@ -325,7 +328,7 @@ table img{
     margin-top: 32em;
     width: 100%;
     height: 100%;
-    background-color:#74201A;
+    background-color: #74201A;
     content: ' ';
     opacity: .6;
 }
